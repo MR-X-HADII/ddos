@@ -37,4 +37,4 @@ TGLrDZ4kZFFJYCRaZNc6avf78eVHwiX9AD
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/MR-X-HADII)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=100054222010368)
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285362211672?text=Assalamualikum+bang+hadi)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285189577844?text=Assalamualikum+bang+hadi)
