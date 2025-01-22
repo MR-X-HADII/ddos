@@ -1,3 +1,7 @@
+```
+WARNING -Script ini adalah buat untuk pendidikan yang baik. Author tidak -bertanggung jawab atas masalah atau -penyebab pada script ini!!
+```
+
 <div align=center>
  
 # DDOS ATTACK 2025
