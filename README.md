@@ -16,7 +16,7 @@ $ python ddos.py
 ```
 ## Cukup kasih bintang ✨ 
 ![Mengetik SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+) 
-<h3 align="left">Klik Dibawah Sini Untuk informasi Contact:</h3>
+
 
 ##### Support :
 
@@ -30,7 +30,9 @@ TGLrDZ4kZFFJYCRaZNc6avf78eVHwiX9AD
  — TRX
 - 
 
-## **Thank you! Stay safe!**
+
+<h3 align="left">Klik Dibawah Sini Untuk informasi Contact:</h3>
+
 
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/MR-X-HADII)
